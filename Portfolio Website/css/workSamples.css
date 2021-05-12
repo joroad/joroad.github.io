@@ -1,0 +1,369 @@
+body {
+  top: 0px;
+  left: 0px;
+  width: 1255px;
+  height: 2194px;
+
+  background: #acecf7;
+}
+
+.topBarNavagation {
+  top: 0px;
+  left: 0px;
+  width: 1255px;
+  height: 72px;
+
+  background: #2699fb;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  font-family: Arial;
+
+  color: #ffffff;
+}
+
+.homeIcon {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  width: 35px;
+  height: 33px;
+}
+
+.workExperence {
+  position: absolute;
+  top: 31px;
+  left: 70px;
+  width: 74px;
+  height: 11px;
+}
+
+.professionalDevelopment {
+  position: absolute;
+  top: 31px;
+  left: 177px;
+  width: 119px;
+  height: 11px;
+}
+
+.workSamples {
+  position: absolute;
+  top: 31px;
+  left: 336px;
+  width: 67px;
+  height: 11px;
+}
+
+.contact {
+  position: absolute;
+  top: 31px;
+  left: 432px;
+  width: 45px;
+  height: 11px;
+}
+
+.workExperenceTitle {
+  position: absolute;
+  white-space: nowrap;
+  top: 99px;
+  left: 456px;
+  width: 344px;
+  height: 46px;
+
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 87px;
+  font-family: Georgia;
+  color: #7f7f7f;
+}
+
+h2 {
+  white-space: nowrap;
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: Georgia;
+  color: #000000;
+}
+
+h3 {
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Georgia;
+  color: #000000;
+}
+
+h4 {
+  background: #2699fb 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+  text-align: center;
+  font: normal normal bold 18px/21px Arial;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  width: 149px;
+  height: 21px;
+}
+.workSamplesTitle {
+  position: absolute;
+  top: 111px;
+  left: 516px;
+  width: 318px;
+  height: 46px;
+}
+
+.introInformationTechnologyHeader {
+  position: absolute;
+  top: 213px;
+  left: 16px;
+  width: 625px;
+  height: 50px;
+}
+
+.introInformationTechnologyAssignmentTitle {
+  position: absolute;
+  top: 263px;
+  left: 21px;
+  width: 302px;
+  height: 46px;
+}
+
+.introInformationTechnologyDescription {
+  position: absolute;
+  top: 349px;
+  left: 16px;
+  width: 913px;
+  height: 230px;
+}
+
+.introInformationTechnologyButton {
+  position: absolute;
+  top: 619px;
+  left: 16px;
+
+.objectOrientedProgrammingHeader {
+  position: absolute;
+  top: 735px;
+  left: 32px;
+  width: 651px;
+  height: 50px;
+}
+
+.objectOrientedProgrammingAssignmentTitle {
+  position: absolute;
+  top: 785px;
+  left: 37px;
+  width: 338px;
+  height: 46px;
+}
+
+.objectOrientedProgrammingDescription {
+  position: absolute;
+  top: 838px;
+  left: 16px;
+  width: 913px;
+  height: 414px;
+}
+
+.objectOrientedProgrammingButton {
+  position: absolute;
+  top: 1268px;
+  left: 21px;
+  width: 200px;
+  height: 60px;
+}
+
+.NetworkingHeader {
+  position: absolute;
+  top: 1384px;
+  left: 16px;
+  width: 253px;
+  height: 50px;
+}
+
+.NetworkingAssignmentTitle {
+  position: absolute;
+  top: 1434px;
+  left: 21px;
+  width: 495px;
+  height: 46px;
+}
+
+.NetworkingDescription {
+  position: absolute;
+  top: 1520px;
+  left: 16px;
+  width: 913px;
+  height: 414px;
+}
+.NetworkingButton {
+  position: absolute;
+  top: 1973px;
+  left: 47px;
+  width: 149px;
+  height: 21px;
+}
+.dataStructiresAlgorithmsIHeader {
+  position: absolute;
+  top: 2050px;
+  left: 37px;
+  width: 651px;
+  height: 50px;
+}
+
+.dataStructiresAlgorithmsIAssignmentTitle {
+  position: absolute;
+  top: 2100px;
+  left: 42px;
+  width: 431px;
+  height: 46px;
+}
+
+.dataStructireAlgorithmsIButton {
+  position: absolute;
+  top: 2153px;
+  left: 21px;
+  width: 913px;
+  height: 230px;
+}
+
+.dataStructiresAlgorithmsIDescription{
+  top: 1520px;
+  left: 16px;
+  width: 913px;
+  height: 414px;
+
+}
+.dataStructiresAlgorithmsIIHeader {
+  position: absolute;
+  top: 2545px;
+  left: 37px;
+  width: 651px;
+  height: 50px;
+}
+
+.dataStructiresAlgorithmsIIAssignmentTitle {
+  position: absolute;
+  top: 2595px;
+  left: 42px;
+  width: 103px;
+  height: 46px;
+}
+
+.dataStructiresAlgorithmsIIDescription {
+  position: absolute;
+  top: 2648px;
+  left: 21px;
+  width: 913px;
+  height: 139px;
+}
+
+.dataStructiresAlgorithmsIIButton {
+  position: absolute;
+  top: 2802px;
+  left: 21px;
+  width: 200px;
+  height: 60px;
+}
+
+.writingSecureApplicationsHeader {
+  position: absolute;
+  top: 2918px;
+  left: 37px;
+  width: 651px;
+  height: 50px;
+}
+
+.writingSecureApplicationsAssignmentTitle {
+  position: absolute;
+  top: 2968px;
+  left: 42px;
+  width: 646px;
+  height: 53px;
+}
+.writingSecureApplicationsDescription {
+  position: absolute;
+  top: 3021px;
+  left: 21px;
+  width: 913px;
+  height: 278px;
+}
+
+.writingSecureApplicationsButton {
+  position: absolute;
+  top: 3313px;
+  left: 21px;
+  width: 200px;
+  height: 60px;
+}
+
+.fundamentalsOfCommunicationHeader {
+  position: absolute;
+  top: 3429px;
+  left: 53px;
+  width: 692px;
+  height: 46px;
+}
+
+.fundamentalsOfCommunicationAssignmentTitle {
+  position: absolute;
+  top: 3479px;
+  left: 58px;
+  width: 305px;
+  height: 46px;
+}
+
+.fundamentalsOfCommunicationDescription {
+  position: absolute;
+  top: 3532px;
+  left: 37px;
+  width: 913px;
+  height: 325px;
+}
+
+.fundamentalsOfCommunicationButton {
+  position: absolute;
+  top: 3857px;
+  left: 37px;
+  width: 200px;
+  height: 60px;
+}
+
+.sociologyOfPopCultureHeader {
+  position: absolute;
+  top: 3973px;
+  left: 53px;
+  width: 523px;
+  height: 50px;
+}
+
+.sociologyOfPopCultureAssignmentTitle {
+  position: absolute;
+  top: 4023px;
+  left: 58px;
+  width: 305px;
+  height: 46px;
+}
+
+.sociologyOfPopCultureDescription {
+  position: absolute;
+  top: 4076px;
+  left: 37px;
+  width: 913px;
+  height: 234px;
+}
+
+.sociologyOfPopCultureButton {
+  position: absolute;
+  top: 4322px;
+  left: 37px;
+  width: 200px;
+  height: 60px;
+}

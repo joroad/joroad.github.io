@@ -1,0 +1,267 @@
+body {
+  top: 0px;
+  left: 0px;
+  width: 1255px;
+  height: 2194px;
+
+  background: #acecf7;
+}
+
+.topBarNavagation {
+  top: 0px;
+  left: 0px;
+  width: 1255px;
+  height: 72px;
+
+  background: #2699fb;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  font-family: Arial;
+
+  color: #ffffff;
+}
+
+.hoemIcon {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  width: 35px;
+  height: 33px;
+}
+
+.workExperence {
+  position: absolute;
+  top: 31px;
+  left: 70px;
+  width: 74px;
+  height: 11px;
+}
+
+.professionalDevelopment {
+  position: absolute;
+  top: 31px;
+  left: 177px;
+  width: 119px;
+  height: 11px;
+}
+
+.workSamples {
+  position: absolute;
+  top: 31px;
+  left: 336px;
+  width: 67px;
+  height: 11px;
+}
+
+.contact {
+  position: absolute;
+  top: 31px;
+  left: 432px;
+  width: 45px;
+  height: 11px;
+}
+
+.workExperenceTitle {
+  position: absolute;
+  white-space: nowrap;
+  top: 99px;
+  left: 456px;
+  width: 344px;
+  height: 46px;
+
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 87px;
+  font-family: Georgia;
+  color: #7f7f7f;
+}
+
+h2 {
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: Georgia;
+  color: #000000;
+}
+
+h3 {
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Georgia;
+  color: #000000;
+}
+
+li {
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  letter-spacing: 0px;
+  font-family: Georgia;
+  color: #000000;
+}
+
+.teachingAssistantHeader {
+  position: absolute;
+  top: 238px;
+  left: 10px;
+  width: 387px;
+  height: 46px;
+}
+
+.teachingAssistantDate {
+  position: absolute;
+  top: 238px;
+  left: 805px;
+  width: 361px;
+  height: 51px;
+}
+
+.teachingAssistantDepartment {
+  position: absolute;
+  top: 296px;
+  left: 28px;
+  width: 611px;
+  height: 54px;
+}
+
+.teachingAssistantLocation {
+  position: absolute;
+  white-space: nowrap;
+  top: 300px;
+  left: 964px;
+  width: 202px;
+  height: 46px;
+}
+
+.teachingAssistantList {
+  position: absolute;
+  top: 386px;
+  left: 30px;
+  width: 775px;
+  height: 195px;
+}
+.pathwaysInternTitle {
+  position: absolute;
+  top: 638px;
+  left: 10px;
+  width: 395px;
+  height: 45px;
+}
+.pathwaysInternDate {
+  position: absolute;
+  top: 645px;
+  left: 907px;
+  width: 259px;
+  height: 51px;
+}
+
+.pathwaysInternPlace {
+  position: absolute;
+  top: 696px;
+  left: 10px;
+  width: 739px;
+  height: 54px;
+}
+
+.pathwaysInternLocation {
+  position: absolute;
+  top: 696px;
+  left: 948px;
+  width: 218px;
+  height: 48px;
+}
+
+.pathwaysInternList {
+  position: absolute;
+  top: 786px;
+  left: 28px;
+  width: 834px;
+  height: 96px;
+}
+
+.studentWorkerTitle {
+  position: absolute;
+  top: 980px;
+  left: 10px;
+  width: 333px;
+  height: 45px;
+}
+
+.studentWorkerDate {
+  position: absolute;
+  top: 980px;
+  left: 791px;
+  width: 383px;
+  height: 51px;
+}
+
+.studentWorkerPlace {
+  position: absolute;
+  top: 1053px;
+  left: 10px;
+  width: 587px;
+  height: 95px; 
+}
+
+.studentWorkerLocation {
+  position: absolute;
+  top: 1031px;
+  left: 969px;
+  width: 218px;
+  height: 48px;
+}
+
+.studentWorkerList {
+  position: absolute;
+  top: 1179px;
+  left: 21px;
+  width: 990px;
+  height: 272px;
+}
+.studentHelpDeskWorkerTitle {
+  position: absolute;
+  top: 1463px;
+  left: 10px;
+  width: 570px;
+  height: 45px;
+}
+.studentHelpDeskWorkerDate {
+  white-space: nowrap;
+  position: absolute;
+  top: 1486px;
+  left: 795px;
+  width: 379px;
+  height: 46px;
+}
+
+.studentHelpDeskWorkerPlace {
+  position: absolute;
+  top: 1536px;
+  left: 10px;
+  width: 656px;
+  height: 92px;
+}
+
+.studentHelpDeskWorkerLoaction {
+  position: absolute;
+  top: 1531px;
+  left: 972px;
+  width: 215px;
+  height: 48px;
+}
+
+.studentHelpDeskWorkerList {
+  position: absolute;
+  top: 1658px;
+  left: 21px;
+  width: 990px;
+  height: 310px;
+}
